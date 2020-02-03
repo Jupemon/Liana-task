@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/liana-task/static/css/main.1e7adf91.chunk.css",
+    "main.js": "/liana-task/static/js/main.d2f3029e.chunk.js",
+    "main.js.map": "/liana-task/static/js/main.d2f3029e.chunk.js.map",
+    "runtime-main.js": "/liana-task/static/js/runtime-main.37c236f9.js",
+    "runtime-main.js.map": "/liana-task/static/js/runtime-main.37c236f9.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/liana-task/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.aa15f60f.chunk.js": "/liana-task/static/js/2.aa15f60f.chunk.js",
+    "static/js/2.aa15f60f.chunk.js.map": "/liana-task/static/js/2.aa15f60f.chunk.js.map",
+    "index.html": "/liana-task/index.html",
+    "precache-manifest.1fcd6e2ce3edfb37d6dd1ad50fc36e80.js": "/liana-task/precache-manifest.1fcd6e2ce3edfb37d6dd1ad50fc36e80.js",
+    "service-worker.js": "/liana-task/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/liana-task/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.1e7adf91.chunk.css.map": "/liana-task/static/css/main.1e7adf91.chunk.css.map",
+    "static/js/2.aa15f60f.chunk.js.LICENSE.txt": "/liana-task/static/js/2.aa15f60f.chunk.js.LICENSE.txt",
+    "static/media/bannerImage.jpg": "/liana-task/static/media/bannerImage.4bd36fab.jpg",
+    "static/media/boximage1.jpg": "/liana-task/static/media/boximage1.283cfea2.jpg",
+    "static/media/liana-technologies-logo.png": "/liana-task/static/media/liana-technologies-logo.f8f90565.png",
+    "static/media/logo.svg": "/liana-task/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c236f9.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.aa15f60f.chunk.js",
+    "static/css/main.1e7adf91.chunk.css",
+    "static/js/main.d2f3029e.chunk.js"
+  ]
+}
