@@ -14,7 +14,7 @@ Tools used :
 I had trouble trying to deploy the app on github pages, i still dont know what went wrong. I had to deploy it on heroku which i am more familiar with.
 
 ## What i learned
-When i first started building the project i thought that there wouldn't be much css used, therefore i simply added css by injecting it on to the react components directly. I should have created seperate css files which i then import via. the react components
+When i first started building the project i thought that there wouldn't be much css used, therefore i simply added css by injecting it on to the react components directly. I should have created seperate css files from the beginning.
 
 ## Other stuff
 
