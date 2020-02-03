@@ -6,8 +6,11 @@ class TopNav extends Component {
     state = {  }
     render() { 
         return ( <div>
-        <div style={{marginTop:"60px", position:"absolute"}}/>
+        <div style={{height:"50px"}}/>
         <div className="top-banner" style={{width : "100%", backgroundColor : "green", height :"70px", display : "flex", flexDirection :"row-reverse"}}>
+        <a style={{padding : "25px", color:"white"}}>Intranet</a>
+        <a style={{padding : "25px", color:"white"}}>News</a>
+
         <div style={{padding: "20px"}}>
         <Dropdown>
   <Dropdown.Toggle variant="success" id="dropdown-basic">
@@ -21,9 +24,6 @@ class TopNav extends Component {
   </Dropdown.Menu>
 </Dropdown>   
 </div>  
-        <a style={{padding : "15px", color:"white"}}>Intranet</a>
-        <a style={{padding : "15px", color:"white"}}>News</a>
-
         </div>
             <Navbar fixed="top" bg="light" expand="lg">
   <Navbar.Brand href="#home">

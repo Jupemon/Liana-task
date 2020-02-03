@@ -1,5 +1,8 @@
 import React from 'react';
-import lianaLogo from '../images/liana-technologies-logo.png';
+import bodyshopLogo from '../images/bodyshop-logo.jpg';
+import ikeaLogo from '../images/ikea-logo.jpg';
+import boschLogo from '../images/bosch-logo.png';
+import laplandhotelsLogo from '../images/laplandhotels-logo.jpg';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 
 const References = () => {
@@ -9,7 +12,7 @@ const References = () => {
             <Row>
                 <Col md="4">
                 <Card>
-  <Card.Img variant="top" src={lianaLogo}/>
+  <Card.Img variant="top" src={boschLogo} height="200px"/>
   <Card.Body>
     <Card.Title>Robert Bosch</Card.Title>
     <Card.Text>
@@ -20,7 +23,7 @@ const References = () => {
                 </Col>
                 <Col md="4">
                 <Card>
-  <Card.Img variant="top" src={lianaLogo} />
+  <Card.Img variant="top" src={bodyshopLogo} height="200px"/>
   <Card.Body>
     <Card.Title>The Body Shop</Card.Title>
     <Card.Text>
@@ -31,7 +34,7 @@ const References = () => {
                 </Col>
                 <Col md="4">
                 <Card>
-  <Card.Img variant="top" src={lianaLogo} />
+  <Card.Img variant="top" src={laplandhotelsLogo} height="200px"/>
   <Card.Body>
     <Card.Title>Lapland Hotels</Card.Title>
     <Card.Text>
@@ -42,7 +45,7 @@ const References = () => {
                 </Col>
                 <Col md="4">
                 <Card>
-  <Card.Img variant="top" src={lianaLogo} />
+  <Card.Img variant="top" src={ikeaLogo} height="200px"/>
   <Card.Body>
     <Card.Title>Ikea</Card.Title>
     <Card.Text>

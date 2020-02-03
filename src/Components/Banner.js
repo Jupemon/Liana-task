@@ -4,7 +4,7 @@ import { Button } from 'react-bootstrap';
 
 const Banner = () => {
     return ( <div>
-    <div style={{position:"absolute", right:"50%", top:"50%"}}>
+    <div style={{position:"absolute", left:"10px", top:"120px", color:"white"}}>
     <div><h1>Software fueling digital marketing</h1></div>
     <Button variant="success">Learn more</Button>
     </div>

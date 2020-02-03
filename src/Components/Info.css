@@ -1,0 +1,16 @@
+.headline {
+    color:"blue";
+    position: absolute;
+    right: 50%;
+    top : 50px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.headline :hover {
+    color: pink;
+    cursor: pointer;
+}
+
+/*style={{position:"absolute", right:"50%", top:"50px", color:"white", fontSize:"20px"}} */
