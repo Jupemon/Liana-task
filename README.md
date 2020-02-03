@@ -20,3 +20,8 @@ When i first started building the project i thought that there wouldn't be much 
 
 There are couple of css issues which i might still fix and the project file management could use some work.
 other than that i think i did a pretty good job!
+
+## Reference image
+
+<img src="liana-reference.png"
+     alt="Refence image"/>
