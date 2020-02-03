@@ -6,7 +6,7 @@ class TopNav extends Component {
     state = {  }
     render() { 
         return ( <div>
-        <div style={{marginTop:"60px"}}/>
+        <div style={{marginTop:"60px", position:"absolute"}}/>
         <div className="top-banner" style={{width : "100%", backgroundColor : "green", height :"70px", display : "flex", flexDirection :"row-reverse"}}>
         <div style={{padding: "20px"}}>
         <Dropdown>
