@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "797643e5261938cefc2aae3f62b38c5c",
+    "revision": "3f27a2537dbeaa9105c41df1298eeb2e",
     "url": "/liana-task/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liana-task/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "a36e496aa09e8f9358aa",
+    "revision": "db549de8379911695cc4",
     "url": "/liana-task/static/css/main.1e7adf91.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liana-task/static/js/2.aa15f60f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a36e496aa09e8f9358aa",
-    "url": "/liana-task/static/js/main.d2f3029e.chunk.js"
+    "revision": "db549de8379911695cc4",
+    "url": "/liana-task/static/js/main.627fee0a.chunk.js"
   },
   {
     "revision": "63602e9a35d473c866c4",
