@@ -1,0 +1,17 @@
+.bottom-linksbox a{
+    color: white;
+}
+
+.bottom-linksbox a:hover{
+    color: green;
+    cursor: pointer;
+}
+
+
+.contact-info h2 {
+    color: white;
+}
+
+.contact-info p {
+    color: white;
+}

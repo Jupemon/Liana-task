@@ -6,23 +6,26 @@ class TopNav extends Component {
     state = {  }
     render() { 
         return ( <div>
+        <div style={{marginTop:"60px"}}/>
         <div className="top-banner" style={{width : "100%", backgroundColor : "green", height :"70px", display : "flex", flexDirection :"row-reverse"}}>
+        <div style={{padding: "20px"}}>
         <Dropdown>
   <Dropdown.Toggle variant="success" id="dropdown-basic">
-    in English
+    English
   </Dropdown.Toggle>
 
   <Dropdown.Menu>
     <Dropdown.Item href="#/action-1">Suomeksi</Dropdown.Item>
-    <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-    <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
+    <Dropdown.Item href="#/action-2">Svenska</Dropdown.Item>
+    <Dropdown.Item href="#/action-3">Norsk</Dropdown.Item>
   </Dropdown.Menu>
-</Dropdown>     
-        <a style={{padding : "0px 5px 0px 5px"}}>Intranet</a>
-        <a style={{padding : "0px 5px 0px 5px"}}>News</a>
+</Dropdown>   
+</div>  
+        <a style={{padding : "15px", color:"white"}}>Intranet</a>
+        <a style={{padding : "15px", color:"white"}}>News</a>
 
         </div>
-            <Navbar bg="light" expand="lg">
+            <Navbar fixed="top" bg="light" expand="lg">
   <Navbar.Brand href="#home">
       <img 
           src={lianaLogo}

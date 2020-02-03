@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import bannerImage from '../images/bannerImage.jpg';
+import boxImage1 from '../images/boximage1.jpg';
 import {Card, Container, Row, Col} from 'react-bootstrap';
 import { CardBody } from 'react-bootstrap/Card';
 
@@ -11,12 +12,12 @@ class Info extends Component {
         <Row>
 <Col md="4">
 <Card >
-  <Card.Img variant="top" src={bannerImage} height="150px" style={{opacity:"0.7"}}/>
+  <Card.Img variant="top" src={bannerImage} height="150px" width="auto" style={{opacity:"0.7"}}/>
   <div style={{position:"absolute", right:"50%", top:"50px", color:"white", fontSize:"20px"}} className="headline">Company</div>
   <Card.Body>
   <i class="fas fa-satellite fa-5x"></i>
   <h1>10 000</h1>
-  <h2>Daily users</h2>
+  <h2>Clients</h2>
   </Card.Body>
 </Card>
 </Col>
@@ -27,7 +28,7 @@ class Info extends Component {
   <Card.Body>
   <i class="fas fa-satellite fa-5x"></i>
   <h1>10 000</h1>
-  <h2>Daily users</h2>
+  <h2>Employees</h2>
   </Card.Body>
 </Card>
 </Col>

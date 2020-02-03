@@ -8,6 +8,7 @@ import Info from './Components/Info';
 import News from './Components/News';
 import References from './Components/References';
 import Newsletter from './Components/Newsletter';
+import BottomFooter from './Components/BottomFooter';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <News />
       <References />
       <Newsletter />
+      <BottomFooter />
     </div>
   );
 }

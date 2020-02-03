@@ -4,57 +4,50 @@ import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 
 const References = () => {
     return ( <div>
+    <h1>References</h1>
         <Container>
             <Row>
                 <Col md="4">
-                <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src={lianaLogo} />
+                <Card>
+  <Card.Img variant="top" src={lianaLogo}/>
   <Card.Body>
-    <Card.Title>References</Card.Title>
+    <Card.Title>Robert Bosch</Card.Title>
     <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+      Bosch is a multinational engineering and electronics company.
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card>
                 </Col>
                 <Col md="4">
-                <Card style={{ width: '18rem' }}>
+                <Card>
   <Card.Img variant="top" src={lianaLogo} />
   <Card.Body>
-    <Card.Title>References</Card.Title>
+    <Card.Title>The Body Shop</Card.Title>
     <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+    The Body Shop is a global beaty brand and it has more than 3,000 stores in more than 60 countries.
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card>
                 </Col>
                 <Col md="4">
-                <Card style={{ width: '18rem' }}>
+                <Card>
   <Card.Img variant="top" src={lianaLogo} />
   <Card.Body>
-    <Card.Title>References</Card.Title>
+    <Card.Title>Lapland Hotels</Card.Title>
     <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+    Lapland Hotels is the largest and most diverse hotel chain in Lapland.
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card>
                 </Col>
                 <Col md="4">
-                <Card style={{ width: '18rem' }}>
+                <Card>
   <Card.Img variant="top" src={lianaLogo} />
   <Card.Body>
-    <Card.Title>References</Card.Title>
+    <Card.Title>Ikea</Card.Title>
     <Card.Text>
-      Some quick example text to build on the card title and make up the bulk of
-      the card's content.
+    IKEA is a multinational furniture store
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card>
                 </Col>
