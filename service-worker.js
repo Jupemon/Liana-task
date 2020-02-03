@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liana-task/precache-manifest.7f63d34f50220d418aa591bfc16f41bb.js"
+  "/liana-task/precache-manifest.a1e295e5fa19d0ff73b48ebf6aab2f82.js"
 );
 
 self.addEventListener('message', (event) => {
