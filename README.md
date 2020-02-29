@@ -1,7 +1,7 @@
 
 ## Task overview
 
-The project took about 4-5 hours to create the essential features.
+The project took about couple hours to create the essential features.
 Tools used :
 * React
 * Bootsrap
@@ -11,7 +11,7 @@ Tools used :
 
 ## Problems i faced
 
-I had trouble trying to deploy the app on github pages, i still dont know what went wrong. I had to deploy it on heroku which i am more familiar with. If you know why the project couldn't deploy on gh-pages please let me know!
+There were a couple of issues with the css, with more time i would have been able to fix them
 
 ## What i learned
 When i first started building the project i thought that there wouldn't be much css used, therefore i simply added css by injecting it on to the react components directly. I should have created seperate css files from the beginning.
